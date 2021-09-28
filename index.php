@@ -16,7 +16,7 @@
 <form action ="script.php" method="post">
     <p>Seu nome: <Input type="text" name="nome"</p>
     <p>Sua idade: <Input type="text" name="idade"></p>
-    <p><input type="submit" </p>
+    <p><input type="submit"  value="Enviar dados do competidor"</p>
 </form>
 
 </body>
